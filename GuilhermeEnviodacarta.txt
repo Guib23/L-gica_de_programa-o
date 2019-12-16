@@ -1,0 +1,26 @@
+Enviar um Carta
+
+Inicio:
+
+- Pegar papel e caneta.
+- Escrever o Texto.
+- Pegar o Envelope.
+- Colocar o papel com o texto escrito dentro do envelope.
+- Selar o envelope.
+- Colocar o selo e endereço para postagem do envelope.
+
+
+Se(Tudo certo)
+ 
+ - Colocar o envelope na empresa responsavel para o envio(Correios). 
+ - Retirar o comprovante de envio.
+	
+
+Se não:
+ 
+ - Revise o Inicio.
+
+Saída:
+
+ - A carta será enviada acompanhe a entrega usando os dados do comprovante de envio pelo site wwww.correios.com.br.
+

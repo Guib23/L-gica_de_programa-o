@@ -1,0 +1,35 @@
+Receita de Bolo de Chocolate
+
+Inicio:
+
+- Pegar os ingredientes:
+Sendo estes : Ovo, Farinha, Açucar, Fermento, Manteiga, Chocolate.
+ 
+- Pegar os utensílios:
+Sendo estes : Forma, Batedeira, Tupperware, Colher.
+
+- Colocar os ingredientes no Tupperware.
+
+- Fazer a mistura dos ingredientes com a Batedeira.
+
+- Atingir uniformidade na mistura.
+
+- Colocar a mistura na forma.
+
+Se(Tudo certo) =
+
+ - Levar a forma com o conteudo da mistura para o forno.
+ - Esperar assar.
+ - Quando assado retirar do forno.
+ - Esperar esfriar.
+
+Se não:
+
+ - Revisar o inicio.
+
+Saída:
+
+ - Servir
+
+Fim se.
+
